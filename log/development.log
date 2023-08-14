@@ -172,3 +172,35 @@ Processing by ApplicationController#goodbye as HTML
 Completed 200 OK in 13ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 2393)
 
 
+Started GET "/" for 27.91.68.171 at 2023-08-14 07:17:34 +0000
+Cannot render console from 27.91.68.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 20)
+Completed 200 OK in 7ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 2393)
+
+
+Started GET "/" for 27.91.68.171 at 2023-08-14 07:17:35 +0000
+Cannot render console from 27.91.68.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 212)
+
+
+Started GET "/" for 27.91.68.171 at 2023-08-14 07:37:00 +0000
+Cannot render console from 27.91.68.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.1ms | Allocations: 20)
+Completed 200 OK in 13ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 2395)
+
+
+Started GET "/" for 27.91.68.171 at 2023-08-14 07:37:01 +0000
+Cannot render console from 27.91.68.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.2ms | Allocations: 6)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 213)
+
+
